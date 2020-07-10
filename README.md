@@ -1,2 +1,1 @@
-# 3DPFO
-projekt kolegija Trodimenzionalno projektiranje fizickih objekata
+# Projekt kolegija Trodimenzionalno projektiranje fizickih objekata 2019/2020
